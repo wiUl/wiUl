@@ -34,5 +34,5 @@ O **Jogo da Onça** (Python/Pygame, com IA usando Minimax e poda Alfa-Beta) foi 
 
 ## 📫 Contato
 
-- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/willian-gomes-242240174/)
+- LinkedIn: [Willian Gomes](https://www.linkedin.com/in/willian-gomes-242240174/)
 - E-mail: [wr503447@gmail.com]
