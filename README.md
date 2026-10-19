@@ -23,9 +23,12 @@ Gosto de partir de uma pergunta e chegar a uma resposta com dados: coletar, orga
 - [**analise-bordero-fluminense**](https://github.com/wiUl/analise-bordero-fluminense): quero entender como preço, contexto da partida e público se relacionam com a receita de bilheteria do Fluminense, usando os [borderôs públicos do clube](https://transparenciafluminense.com.br/public/lista/124/arenas/operacao-de-jogos/borderos). Hoje o projeto está em planejamento: a modelagem do banco e o dicionário de dados estão prontos, e a coleta e as análises vêm a seguir.
 - [**football-position-clustering**](https://github.com/wiUl/football-position-clustering): uma ideia que ainda vou desenvolver. Usar k-means para descobrir quais atributos definem cada posição no futebol.
 
-## 🎓 Trabalho de conclusão de curso
+## 🎓 Formação e TCC
 
-O **Jogo da Onça** (Python/Pygame, com IA usando Minimax e poda Alfa-Beta) foi o meu TCC no curso de Ciência da Computação da UFRJ, intitulado *Avaliações de Estratégias para o Algoritmo Minimax no Jogo da Onça*. Desenvolvi o trabalho em coautoria com o Carlos Eduardo, [@Dudu300599](https://github.com/Dudu300599): o código é de nós dois e o repositório está na conta dele: [Dudu300599/Trabalho-Final](https://github.com/Dudu300599/Trabalho-Final).
+Formado em **Ciência da Computação pela UFRJ** (conclusão em abril de 2026).
+
+Meu TCC, aprovado em 2 de março de 2026, foi o **Jogo da Onça** (Python/Pygame, com IA usando Minimax e poda Alfa-Beta), sob orientação do Prof. João Carlos Pereira da Silva. O trabalho se chama *Avaliações de Estratégias para o Algoritmo Minimax no Jogo da Onça* e foi desenvolvido em coautoria com o Carlos Eduardo, [@Dudu300599](https://github.com/Dudu300599): o código é de nós dois e o repositório está na conta dele: [Dudu300599/Trabalho-Final](https://github.com/Dudu300599/Trabalho-Final).
+
 ## 🛠️ Ferramentas que uso
 
 - **Dados e BI:** SQL, Python (pandas), Power BI, Excel
